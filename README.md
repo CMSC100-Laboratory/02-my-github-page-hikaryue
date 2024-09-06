@@ -1,1 +1,4 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/kElvRG-V)
+Full Name: Janielle Marie E. Luna
+Degree Program: BS Computer Science
+Live Website link (Make sure this is clickable): None
+What are your key takeaways from this exercise?: Dividing the contents into equal columns is dependent on how you created the div in your html file
